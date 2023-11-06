@@ -11,3 +11,4 @@ Projeto 8: Forumlário diferente
 Projeto 9: Site para uma profissional dentista
 Projeto 10: Página inicial completa de um site
 spotify_full : Página inicial imitando Spotify
+
